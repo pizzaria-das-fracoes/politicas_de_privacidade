@@ -1,0 +1,29 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Dependências
+node_modules/
+
+# Arquivos compactados
+*.zip
+
+# Chaves e certificados privados
+*.pem
+*.key
+*.jks
+*.keystore
